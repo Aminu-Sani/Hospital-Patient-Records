@@ -1,8 +1,3 @@
-Here’s your fully formatted `README.md` content for GitHub:
-
----
-
-```markdown
 # Hospital Patient Records Analysis Dashboard
 
 This project explores patient data from a private hospital to identify trends in treatment costs, patient admissions, and length of stay. Built using Power BI and Excel, it helps healthcare managers make informed decisions to improve efficiency without compromising care quality.
